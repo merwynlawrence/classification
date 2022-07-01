@@ -1,3 +1,11 @@
+#In the below code we use decision trees to predict the possibility of breast cancer using the breast_cancer dataset in sklearn.
+#We use the train_test_split to split the data in 80/20
+# The DecisionTreeClassifier is used from sklearn.tree to build the model
+#We use the matplotlib plt to plot the tree
+
+
+
+------------------------------------------
 #!/usr/bin/env python
 # coding: utf-8
 
